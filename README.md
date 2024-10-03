@@ -21,7 +21,8 @@ This Hotel Check-In System Is A Simple and Effective Code that Communicates Gues
 - Uses switch cases to control and allow the user to navigate through the Menu
 - Uses pass-by-reference for updating values across multiple functions
 
-  
+  ## Brief Walk Through Link
+  https://peralta.instructuremedia.com/embed/f977efb5-67c5-4be6-902e-313fbb80cb02
 
 
 ## Clean Code Version
