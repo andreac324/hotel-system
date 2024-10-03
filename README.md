@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Xcode%20-%20?style=for-the-badge&logo=Xcode&labelColor=black)
 
-#This Hotel Check-In System Is A Simple and Effective Code that Communicates Guest info Throughout the Entire System 
+This Hotel Check-In System Is A Simple and Effective Code that Communicates Guest info Throughout the Entire System 
 
 ## Key Features
 - A basic hotel management system with options for guest check-in, check-out, and room management.
