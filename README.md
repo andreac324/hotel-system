@@ -22,7 +22,7 @@ This Hotel Check-In System Is A Simple and Effective Code that Communicates Gues
 - Uses pass-by-reference for updating values across multiple functions
 
   ## Brief Walk Through Link
-  https://peralta.instructuremedia.com/embed/f977efb5-67c5-4be6-902e-313fbb80cb02
+https://www.kapwing.com/videos/66fe3c574e916e30b467fb53
 
 
 ## Clean Code Version
