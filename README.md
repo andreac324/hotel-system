@@ -22,8 +22,10 @@ This Hotel Check-In System Is A Simple and Effective Code that Communicates Gues
 - Uses pass-by-reference for updating values across multiple functions
 
   ## Brief Walk Through Link
-https://www.kapwing.com/videos/66fe3c574e916e30b467fb53
+(https://www.youtube.com/watch?v=EHyt8m19xRQ)
 
+
+<img width="1470" alt="Screenshot 2024-10-13 at 3 15 50 PM" src="https://github.com/user-attachments/assets/430d3569-3b6a-4500-b144-f6cfcf9983dd">
 
 ## Clean Code Version
 ![carbon](https://github.com/user-attachments/assets/cc44639c-f685-4274-bb43-4cc974702603)
